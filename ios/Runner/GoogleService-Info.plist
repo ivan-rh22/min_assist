@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>879896772429-eqj70a8s698aa3v906spjhtuqkqv9mvk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.879896772429-eqj70a8s698aa3v906spjhtuqkqv9mvk</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBl0qewi_wRPLOzJy3Pxo5hesCsnJKL0PA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>879896772429</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.minAssist</string>
+	<key>PROJECT_ID</key>
+	<string>ministry-assistant-57753</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ministry-assistant-57753.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:879896772429:ios:f5b28f3cee5eb3a5564104</string>
+</dict>
+</plist>

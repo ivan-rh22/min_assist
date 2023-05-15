@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "879896772429",
+    "project_id": "ministry-assistant-57753",
+    "storage_bucket": "ministry-assistant-57753.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879896772429:android:1d0377af4a06512f564104",
+        "android_client_info": {
+          "package_name": "com.example.min_assist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879896772429-rnrpeh2cfmf0tjg459c91a3mhq5nv8ju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA6dSwdQZa6RQEFHy70QI9-ma98x7NcMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879896772429-rnrpeh2cfmf0tjg459c91a3mhq5nv8ju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
