@@ -5,8 +5,8 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/foundation.dart'
     show defaultTargetPlatform, kIsWeb, TargetPlatform;
 
-Future<void> initializeFirebase() async {
-  await Firebase.initializeApp(
+Future<void> initializeFirebase() {
+  return Firebase.initializeApp(
     options: DefaultFirebaseOptions.currentPlatform,
   );
 }
